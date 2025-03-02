@@ -58,6 +58,9 @@
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
+            "options":{
+              "configuration":"src/proxyconf.json"
+            },
             "production": {
               "buildTarget": "E-ecomerce:build:production"
             },
@@ -92,5 +95,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "d39280ab-2c1d-4590-a075-050b1e64d6e1"
   }
 }

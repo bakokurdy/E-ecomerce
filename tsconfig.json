@@ -3,7 +3,8 @@
 {
   "compileOnSave": false,
   "compilerOptions": {
-    "outDir": "./dist/out-tsc",
+    "forceConsistentCasingInFileNames": true,
+    "outDir": "./out-tsc/app",
     "strict": true,
     "noImplicitOverride": true,
     "noPropertyAccessFromIndexSignature": true,

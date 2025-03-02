@@ -1,0 +1,419 @@
+{
+  "User": [
+    {
+      "name": "Ashish Mishra",
+      "mobNumber": "1234567891",
+      "age": 29,
+      "dob": "1995-05-12",
+      "email": "admin@gmail.com",
+      "password": "Acdc771988",
+      "address": {
+        "addLine1": "District Center",
+        "addLine2": "Janakpuri",
+        "city": "New Delhi",
+        "state": "Delhi",
+        "zipCode": "110052"
+      },
+      "language": [
+        "English",
+        "Hindi",
+        "Bhojpuri",
+        "Telgu",
+        "Kannad"
+      ],
+      "gender": "Male",
+      "aboutYou": "I am a programmer...",
+      "uploadPhoto": "ashish.png",
+      "agreetc": true,
+      "role": "sell",
+      "id": "1"
+    },
+    {
+      "aboutYou": "HGHJBHMBMBNHTRTYRYgfhfjfjh",
+      "age": 29,
+      "agreetc": true,
+      "dob": "2024-01-02",
+      "email": "asdd@gghh.com",
+      "gender": "Male",
+      "address": {
+        "id": 0,
+        "addLine1": "876444654",
+        "addLine2": "FFFFHFGHHGFH",
+        "city": "GFHFHFFHG",
+        "state": "...",
+        "zipCode": "86764664646"
+      },
+      "language": [
+        "Hindi"
+      ],
+      "mobNumber": "8446878784466465",
+      "name": "TESTY CODEIZ",
+      "password": "123456789",
+      "uploadPhoto": "C:\\fakepath\\Angular 15 (29).png",
+      "role": "seller",
+      "id": "2"
+    },
+    {
+      "aboutYou": "abdulkurdy , You can learn Angular",
+      "age": 29,
+      "agreetc": false,
+      "dob": "1999-06-07",
+      "email": "bakokurdy@gmail.com",
+      "gender": "Male",
+      "address": {
+        "id": 0,
+        "addLine1": "new delho",
+        "addLine2": "wx -1520",
+        "city": "delhi",
+        "state": "...",
+        "zipCode": "325863558"
+      },
+      "language": [
+        "English",
+        "Hindi"
+      ],
+      "mobNumber": "83685222555",
+      "name": "Ashish Mishra",
+      "password": "123456789",
+      "uploadPhoto": "C:\\fakepath\\Angular 15 (23).png",
+      "role": "allaw",
+      "id": "3"
+    },
+    {
+      "aboutYou": "Something about me..",
+      "age": 31,
+      "agreetc": true,
+      "dob": "1995-12-01",
+      "email": "ashum@gmail.com",
+      "gender": "Male",
+      "address": {
+        "id": 0,
+        "addLine1": "somthing.",
+        "addLine2": "near about",
+        "city": "delhi",
+        "state": "UP",
+        "zipcode": "2359865"
+      },
+      "language": [
+        "English",
+        "Hindi"
+      ],
+      "mobNumber": "86744645764",
+      "name": "Mr.Ashu",
+      "password": "123456789",
+      "uploadPhoto": "C:\\fakepath\\Angular 17 Admin (6).png",
+      "role": "buy",
+      "id": "4"
+    },
+    {
+      "name": "vary",
+      "mobilenumber": "0770345678",
+      "age": 30,
+      "dob": "1995-10-12",
+      "email": "vary23@gmail.com",
+      "password": "trertewtre",
+      "address": {
+        "id": 0,
+        "addlin1": "gragan18",
+        "addlin2": "4thfloor",
+        "city": "jwdy",
+        "state": "UP",
+        "zipcode": "00964"
+      },
+      "language": [
+        "kurdy"
+      ],
+      "gender": "Female",
+      "uploadPhoto": "C:\\fakepath\\070.jpg",
+      "agreetc": true,
+      "aboutyou": "kjp",
+      "role": "sell",
+      "id": "5"
+    },
+    {
+      "name": "baran",
+      "mobilenumber": "0485645879",
+      "age": 30,
+      "dob": "1995-10-12",
+      "email": "calaw34@gmail.com",
+      "password": "trertewtre",
+      "address": {
+        "id": 0,
+        "addlin1": "gragan18",
+        "addlin2": "4thfloor",
+        "city": "jwdy",
+        "state": "MP",
+        "zipcode": "00964"
+      },
+      "language": [
+        "English"
+      ],
+      "gender": "Male",
+      "uploadPhoto": "C:\\fakepath\\026.jpeg",
+      "agreetc": true,
+      "aboutyou": "kjdfh",
+      "role": "sell",
+      "id": "8b82"
+    },
+    {
+      "name": "bako",
+      "mobilenumber": "07701428234",
+      "age": 40,
+      "dob": "1979-01-10",
+      "email": "abdulrahmanosman668@yahoo.com",
+      "password": "asdfghj",
+      "address": {
+        "id": 0,
+        "addlin1": "Sulymani/dokan",
+        "addlin2": "12Apartman",
+        "city": "Qaykand",
+        "state": "UP",
+        "zipcode": "00964"
+      },
+      "language": [
+        "kurdy",
+        "Arabic"
+      ],
+      "gender": "Male",
+      "uploadPhoto": "C:\\fakepath\\002.jpg",
+      "agreetc": true,
+      "aboutyou": "dhjdghj",
+      "role": "sell",
+      "id": "478d"
+    }
+  ],
+  "Product": [
+    {
+      "id": "1",
+      "name": "Polyester Door Curtain",
+      "uploadPhoto": "https://rukminim1.flixcart.com/image/832/832/jcf487k0/curtain/w/e/y/elegant-cream-door-curtains-set-of-2-213-soe-fsb-120-120-eyelet-original-imaffk7f9wng4v4m.jpeg",
+      "uploadDesc": "Transform the ambiance of your home with these elegant, crushed texture, light weight, solid color curtains. These curtains are available in several colors and sizes to match to your home decor and the gracefully flowing polyester is durable and machine washable for your convenience.",
+      "mrp": "1000",
+      "dp": "499",
+      "status": "publish"
+    },
+    {
+      "id": "2",
+      "name": "Water Bottle",
+      "uploadPhoto": "https://rukminim1.flixcart.com/image/832/832/bottle/w/5/g/1000-cello-h2o-cello-h2o-water-bottel-cello-original-imaeqtj3vyxyehmn.jpeg",
+      "uploadDesc": "Hygienic bottle: The bottle is made of 100% food grade material & is BPA free ensures a safe drinking. Crystal Clarity: It's sheer body helps to easily identify the contents & also adds beauty to the liquid that you put in, Leak Proof: The bottle has a liquid tight cap that prevents leakage & is unbreakable. Freezer safe: These bottles are compatible with refrigerator & not being curvy the bottle occupies less space. Looks pretty in the fridge or on the table top.",
+      "mrp": "123",
+      "dp": "99",
+      "status": "publish"
+    },
+    {
+      "id": "3",
+      "name": "Metro Living Self Design Pillows Cover",
+      "uploadPhoto": "https://rukminim1.flixcart.com/image/832/832/jjsw4nk0/cushion-pillow-cover/e/z/z/epl12-metro-living-original-imaf7ah6zstjyevd.jpeg",
+      "uploadDesc": "Regional Speciality\nRajasthan\nFabric Care\nMachinne Wash, Do not Bleach, Wash in Cold Water\nThread Count\n104\nSales Package\nPack of 2 Pillow Cover",
+      "mrp": "500",
+      "dp": "399",
+      "status": "draft"
+    },
+    {
+      "id": "4",
+      "name": "Metro Living Self Design Pillows Cover",
+      "onum": "9901",
+      "uploadPhoto": "https://rukminim1.flixcart.com/image/832/832/jjsw4nk0/cushion-pillow-cover/e/z/z/epl12-metro-living-original-imaf7ah6zstjyevd.jpeg",
+      "uploadDesc": "Regional Speciality\nRajasthan\nFabric Care\nMachinne Wash, Do not Bleach, Wash in Cold Water\nThread Count\n104\nSales Package\nPack of 2 Pillow Cover",
+      "mrp": "500",
+      "dp": "399",
+      "status": "draft"
+    },
+    {
+      "id": "5",
+      "name": "TIZUM Aluminium Portable Stand",
+      "onum": "9902",
+      "uploadPhoto": "https://rukminim1.flixcart.com/image/832/832/jx0prbk0/mobile-holder/t/3/d/aluminium-portable-stand-with-convenient-charging-port-design-original-imafhkkxjvphhhgz.jpeg",
+      "uploadDesc": "The aluminium material used in the stand makes it sturdy and strong. Multi-angle fold-ability provides with a seamless viewing experience. The light weight of this stand allows it to be carried around everywhere conveniently. Universally designed to fit 3.5-8 inch phones and tablets without hassle. Apart from phones and tabs, the stand also holds gaming console like Nintendo play. •Aluminium Stand with Multi-Angle foldability ",
+      "mrp": "300",
+      "dp": "199",
+      "status": "inactive"
+    },
+    {
+      "id": "6",
+      "name": "Polyester Door Curtain",
+      "onum": "9903",
+      "uploadPhoto": "https://rukminim1.flixcart.com/image/832/832/jcf487k0/curtain/w/e/y/elegant-cream-door-curtains-set-of-2-213-soe-fsb-120-120-eyelet-original-imaffk7f9wng4v4m.jpeg",
+      "uploadDesc": "Transform the ambiance of your home with these elegant, crushed texture, light weight, solid color curtains. These curtains are available in several colors and sizes to match to your home decor and the gracefully flowing polyester is durable and machine washable for your convenience.",
+      "mrp": "1000",
+      "dp": "499",
+      "status": "publish"
+    },
+    {
+      "id": "7",
+      "name": "Water Bottle",
+      "onum": "9904",
+      "uploadPhoto": "https://rukminim1.flixcart.com/image/832/832/bottle/w/5/g/1000-cello-h2o-cello-h2o-water-bottel-cello-original-imaeqtj3vyxyehmn.jpeg",
+      "uploadDesc": "Hygienic bottle: The bottle is made of 100% food grade material & is BPA free ensures a safe drinking. Crystal Clarity: It's sheer body helps to easily identify the contents & also adds beauty to the liquid that you put in, Leak Proof: The bottle has a liquid tight cap that prevents leakage & is unbreakable. Freezer safe: These bottles are compatible with refrigerator & not being curvy the bottle occupies less space. Looks pretty in the fridge or on the table top.",
+      "mrp": "123",
+      "dp": "99",
+      "status": "publish"
+    },
+    {
+      "id": "8",
+      "name": "Metro Living Self Design Pillows Cover",
+      "onum": "9905",
+      "uploadPhoto": "https://rukminim1.flixcart.com/image/832/832/jjsw4nk0/cushion-pillow-cover/e/z/z/epl12-metro-living-original-imaf7ah6zstjyevd.jpeg",
+      "uploadDesc": "Regional Speciality\nRajasthan\nFabric Care\nMachinne Wash, Do not Bleach, Wash in Cold Water\nThread Count\n104\nSales Package\nPack of 2 Pillow Cover",
+      "mrp": "500",
+      "dp": "399",
+      "status": "draft"
+    },
+    {
+      "id": "9",
+      "name": "TIZUM Aluminium Portable Stand",
+      "uploadPhoto": "https://rukminim1.flixcart.com/image/832/832/jx0prbk0/mobile-holder/t/3/d/aluminium-portable-stand-with-convenient-charging-port-design-original-imafhkkxjvphhhgz.jpeg",
+      "productDesc": "The aluminium material used in the stand makes it sturdy and strong. Multi-angle fold-ability provides with a seamless viewing experience. The light weight of this stand allows it to be carried around everywhere conveniently. Universally designed to fit 3.5-8 inch phones and tablets without hassle. Apart from phones and tabs, the stand also holds gaming console like Nintendo play. •Aluminium Stand with Multi-Angle foldability ",
+      "mrp": "300",
+      "dp": "199",
+      "status": "inactive"
+    },
+    {
+      "id": "10",
+      "name": "Polyester Door Curtain",
+      "uploadPhoto": "https://rukminim1.flixcart.com/image/832/832/jcf487k0/curtain/w/e/y/elegant-cream-door-curtains-set-of-2-213-soe-fsb-120-120-eyelet-original-imaffk7f9wng4v4m.jpeg",
+      "productDesc": "Transform the ambiance of your home with these elegant, crushed texture, light weight, solid color curtains. These curtains are available in several colors and sizes to match to your home decor and the gracefully flowing polyester is durable and machine washable for your convenience.",
+      "mrp": "1000",
+      "dp": "499",
+      "status": "publish"
+    },
+    {
+      "id": "11",
+      "name": "Water Bottle",
+      "uploadPhoto": "https://rukminim1.flixcart.com/image/832/832/bottle/w/5/g/1000-cello-h2o-cello-h2o-water-bottel-cello-original-imaeqtj3vyxyehmn.jpeg",
+      "productDesc": "Hygienic bottle: The bottle is made of 100% food grade material & is BPA free ensures a safe drinking. Crystal Clarity: It's sheer body helps to easily identify the contents & also adds beauty to the liquid that you put in, Leak Proof: The bottle has a liquid tight cap that prevents leakage & is unbreakable. Freezer safe: These bottles are compatible with refrigerator & not being curvy the bottle occupies less space. Looks pretty in the fridge or on the table top.",
+      "mrp": "123",
+      "dp": "99",
+      "status": "publish"
+    },
+    {
+      "id": "76cf",
+      "name": "sportsclothses",
+      "onum": "9908",
+      "uploadPhoto": "https://rukminim1.flixcart.com/image/832/832/jjsw4nk0/cushion-pillow-cover/e/z/z/epl12-metro-living-original-imaf7ah6zstjyevd.jpeg",
+      "uploadDesc": "jhgfakjshf",
+      "mrp": "65000",
+      "db": "430",
+      "status": "inactive"
+    },
+    {
+      "id": "896e",
+      "name": "kalasportsxcheak",
+      "onum": "99011",
+      "uploadPhoto": "https://rukminim1.flixcart.com/image/832/832/jjsw4nk0/cushion-pillow-cover/e/z/z/epl12-metro-living-original-imaf7ah6zstjyevd.jpeg",
+      "uploadDesc": "kjhkjgkhgk",
+      "mrp": "23000",
+      "db": "227000",
+      "status": "publish"
+    }
+  ],
+  "Order": [
+    {
+      "id": "1",
+      "userId": 3,
+      "sellerId": 2,
+      "product": {
+        "id": 1,
+        "name": "Polyester Door Curtain",
+        "uploadPhoto": "https://rukminim1.flixcart.com/image/832/832/jcf487k0/curtain/w/e/y/elegant-cream-door-curtains-set-of-2-213-soe-fsb-120-120-eyelet-original-imaffk7f9wng4v4m.jpeg",
+        "productDesc": "Transform the ambiance of your home with these elegant, crushed texture, light weight, solid color curtains. These curtains are available in several colors and sizes to match to your home decor and the gracefully flowing polyester is durable and machine washable for your convenience.",
+        "mrp": "1000",
+        "dp": "499",
+        "status": "publish"
+      },
+      "deliveryAddress": {
+        "id": 0,
+        "addlin1": "Marathalli",
+        "addlin2": "Aswathnagar",
+        "city": "Bangalore",
+        "state": "Choose...",
+        "zipcode": 560037
+      },
+      "contact": "09040398006",
+      "dateTime": "18/07/2019"
+    },
+    {
+      "id": "2",
+      "userId": 3,
+      "sellerId": 2,
+      "product": {
+        "id": 3,
+        "name": "Metro Living Self Design Pillows Cover",
+        "uploadPhoto": "https://rukminim1.flixcart.com/image/832/832/jjsw4nk0/cushion-pillow-cover/e/z/z/epl12-metro-living-original-imaf7ah6zstjyevd.jpeg",
+        "productDesc": "Regional Speciality\nRajasthan\nFabric Care\nMachinne Wash, Do not Bleach, Wash in Cold Water\nThread Count\n104\nSales Package\nPack of 2 Pillow Cover",
+        "mrp": "500",
+        "dp": "399",
+        "status": "draft"
+      },
+      "deliveryAddress": {
+        "id": 0,
+        "addLine1": "new delho",
+        "addLine2": "wx -1520",
+        "city": "delhi",
+        "state": "...",
+        "zipCode": "325863558"
+      },
+      "contact": "83685222555",
+      "dateTime": "1/27/2024"
+    },
+    {
+      "id": "0",
+      "userId": 4,
+      "sellId": 2,
+      "product": {
+        "id": "5",
+        "name": "TIZUM Aluminium Portable Stand",
+        "onum": "9902",
+        "uploadPhoto": "https://rukminim1.flixcart.com/image/832/832/jx0prbk0/mobile-holder/t/3/d/aluminium-portable-stand-with-convenient-charging-port-design-original-imafhkkxjvphhhgz.jpeg",
+        "uploadDesc": "The aluminium material used in the stand makes it sturdy and strong. Multi-angle fold-ability provides with a seamless viewing experience. The light weight of this stand allows it to be carried around everywhere conveniently. Universally designed to fit 3.5-8 inch phones and tablets without hassle. Apart from phones and tabs, the stand also holds gaming console like Nintendo play. •Aluminium Stand with Multi-Angle foldability ",
+        "mrp": "300",
+        "status": "inactive"
+      },
+      "deliveryAddress": {
+        "id": 0,
+        "city": "delhi",
+        "state": "UP",
+        "zipcode": "2359865"
+      },
+      "dateTime": "2/23/2025"
+    }
+  ],
+  "groupshops": [
+    {
+      "id": "1",
+      "name": "nanjw",
+      "shop_num": "0678"
+    },
+    {
+      "id": "2",
+      "name": "Tanjw",
+      "shop_num": "2278"
+    },
+    {
+      "id": "3",
+      "name": "takin",
+      "shop_num": "4437"
+    },
+    {
+      "id": "7",
+      "name": "bkin",
+      "shop_num": "23437"
+    },
+    {
+      "id": "8",
+      "name": "makin",
+      "shop_num": "8837"
+    },
+    {
+      "id": "11",
+      "name": "makin",
+      "shop_num": "9908"
+    },
+    {
+      "id": "76cf",
+      "name": "makin",
+      "shop_num": "9909"
+    }
+  ]
+}

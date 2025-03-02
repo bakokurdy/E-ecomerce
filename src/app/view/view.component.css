@@ -1,0 +1,43 @@
+.profile{
+    width: 200px;
+    height: 200px;
+    margin-bottom: 15px;
+    transition: 0.3s ease-in-out;
+}
+.card{
+   
+    border: none;
+    width: 500px;
+    padding: 40px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background-color: hsla(205, 46%, 30%,1);
+    background: linear-gradient(90deg,hsla(260, 29%, 36%,1) 0%,hsla(260, 29%, 36%,1)100%);
+}
+.card h1{
+    color: #fff;
+}
+label{
+    color: #fff;
+}
+img {
+    width: 100%;
+    border-radius: 1rem;
+  }
+  
+  table {
+    width: 90%;
+  }
+  
+  .name {
+    font-size: 2rem;
+    font-weight: 600;
+    font-style: italic;
+    letter-spacing: 3px;
+  
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    padding: 0px 2rem;
+  }
