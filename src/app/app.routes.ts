@@ -53,5 +53,5 @@ export const routes: Routes = [
         
     ]
 },
-{/*path:'**',component:PagNotFoundComponent*/}
+{path:'**',component:PagNotFoundComponent}
 ];
